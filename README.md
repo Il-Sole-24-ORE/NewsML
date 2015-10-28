@@ -12,6 +12,8 @@
 
 ***NewsML-G2 is the cost-effective way of managing news, whether for a news provider, web site, news aggregator, newspaper or television station.***
 
-[Catalog](http://cv.ilsole24ore.com/std/catalog/catalog.S24O-IPTC-G2_1.xml)
+# Catalog of NewsCodes vocabolaries:
+Scheme URI = [http://cv.ilsole24ore.com/std/catalog/catalog.S24O-IPTC-G2_1.xml](http://cv.ilsole24ore.com/std/catalog/catalog.S24O-IPTC-G2_1.xml)
 
-[Newscodes](http://cv.ilsole24ore.com/newscodes)
+# NewsCodes vocabolaries
+[http://cv.ilsole24ore.com/newscodes](http://cv.ilsole24ore.com/newscodes)
